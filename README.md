@@ -26,6 +26,7 @@ mogaco dev
  * typescript
  * nodejs/express with TDD
  * socketio
+ * node-cron
  
  # server
  
