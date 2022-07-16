@@ -6,36 +6,36 @@ mogaco dev
  
  # front-end
  
- ## typescript
- ## react 18
- ## storybook
- ## recoil
- ## react qurey
- ## yarn-barry
- ## emotion/styled
+ * typescript
+ * react 18
+ * storybook
+ * recoil
+ * react qurey
+ * yarn-barry
+ * emotion/styled
  
  # back-end
  
- ## typescript
- ## nodejs/express
- ## socketio
+ * typescript
+ * nodejs/express
+ * socketio
  
  # server
  
- ## aws
- ## docker
- ## redis
- ## nginx
+ * aws
+ * docker
+ * redis
+ * nginx
  
  # CI/CD
  
- ## gitAction
+ * gitAction
  
  # tool
  
- ## swagger/pow
- ## slack
- ## notion
+ * swagger/pow
+ * slack
+ * notion
  
  
  
