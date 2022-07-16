@@ -7,7 +7,7 @@ mogaco dev
    * design width figma
      https://www.figma.com/file/cLRhOFc5MPjAl6DrQMo2Ei/Untitled?node-id=0%3A1
  
- * create TOS(Table Of Specification)
+   * create TOS(Table Of Specification)
  
  
  # front-end
