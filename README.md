@@ -32,12 +32,12 @@ mogaco dev
  
  * aws
  * docker
- * redis
  * nginx
 
 # DB
 
 * mariaDB
+* redis
 * typeORM
 
 
