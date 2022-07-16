@@ -1,5 +1,6 @@
 # mogaco
 mogaco dev
+  * mogaco is a non-face-to-face video chatting program and a simple coding study planner.
 
 
  ### 2022 07 17 mogaco proj start
