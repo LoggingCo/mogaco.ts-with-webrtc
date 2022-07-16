@@ -17,7 +17,7 @@ mogaco dev
  # back-end
  
  * typescript
- * nodejs/express
+ * nodejs/express width TDD
  * socketio
  
  # server
@@ -26,7 +26,13 @@ mogaco dev
  * docker
  * redis
  * nginx
- 
+
+# DB
+
+* mariaDB
+* typeORM
+
+
  # CI/CD
  
  * gitAction
