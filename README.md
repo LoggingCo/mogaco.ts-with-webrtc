@@ -28,7 +28,7 @@ mogaco dev
  * socketio
  * node-cron
  
- # server
+ # devOps
  
  * aws
  * docker
@@ -37,7 +37,6 @@ mogaco dev
 # DB
 
 * mariaDB
-* redis
 * typeORM
 
 
@@ -45,7 +44,7 @@ mogaco dev
  
  * gitAction
  
- # tool
+ # Cooperation
  
  * swagger/pow
  * slack
